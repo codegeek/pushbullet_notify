@@ -2,7 +2,7 @@
 # Author: Guillermo Castro <github AT codegeek DOT info>
 # IRC: CodeGeek AT freenode
 #
-# This plugin sends push notifications to pushbullet when somebody says your nickname, etc.
+# This plugin sends push notifications to pushbullet when your away.
 # Requires Weechat 0.3.5
 
 #   Copyright [2020] [Guillermo Castro]
